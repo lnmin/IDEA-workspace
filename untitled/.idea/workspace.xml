@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f625ba11-626f-4dc3-83bf-6901374533b2" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YKrdBS5f28mNLb7pgt6IvvJlgz" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="settings.editor.selected.configurable" value="project.propGUI" />
+  </component>
+  <component name="RunManager" selected="Application.day0226">
+    <configuration name="IfDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.stx.zzyb.Day0206.IfDemo" />
+      <module name="untitled" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.stx.zzyb.Day0206.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="day0226" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.stx.day0226" />
+      <module name="untitled" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.stx.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.day0226" />
+        <item itemvalue="Application.IfDemo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f625ba11-626f-4dc3-83bf-6901374533b2" name="Default Changelist" comment="" />
+      <created>1582702211820</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582702211820</updated>
+      <workItem from="1582702216045" duration="1570000" />
+      <workItem from="1582703826639" duration="7255000" />
+      <workItem from="1582714901992" duration="2165000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1867" height="311" key="GridCell.Tab.0.bottom" timestamp="1582717071135">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1340" height="328" key="GridCell.Tab.0.bottom/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1582706836156" />
+    <state width="1867" height="311" key="GridCell.Tab.0.bottom/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1582717071135" />
+    <state width="1867" height="311" key="GridCell.Tab.0.center" timestamp="1582717071135">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1340" height="328" key="GridCell.Tab.0.center/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1582706836156" />
+    <state width="1867" height="311" key="GridCell.Tab.0.center/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1582717071135" />
+    <state width="1867" height="311" key="GridCell.Tab.0.left" timestamp="1582717071135">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1340" height="328" key="GridCell.Tab.0.left/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1582706836155" />
+    <state width="1867" height="311" key="GridCell.Tab.0.left/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1582717071135" />
+    <state width="1867" height="311" key="GridCell.Tab.0.right" timestamp="1582717071135">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1340" height="328" key="GridCell.Tab.0.right/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1582706836156" />
+    <state width="1867" height="311" key="GridCell.Tab.0.right/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1582717071135" />
+    <state width="1332" height="321" key="GridCell.Tab.1.bottom" timestamp="1582714823703">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1332" height="321" key="GridCell.Tab.1.bottom/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1582714823703" />
+    <state width="1332" height="321" key="GridCell.Tab.1.center" timestamp="1582714823703">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1332" height="321" key="GridCell.Tab.1.center/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1582714823703" />
+    <state width="1332" height="321" key="GridCell.Tab.1.left" timestamp="1582714823703">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1332" height="321" key="GridCell.Tab.1.left/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1582714823703" />
+    <state width="1332" height="321" key="GridCell.Tab.1.right" timestamp="1582714823703">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1332" height="321" key="GridCell.Tab.1.right/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1582714823703" />
+    <state x="420" y="151" width="1189" height="883" key="SettingsEditor" timestamp="1582708690334">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="420" y="151" width="1189" height="883" key="SettingsEditor/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1582708690334" />
+    <state x="2565" y="363" key="com.intellij.ide.util.TipDialog" timestamp="1582714902750">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="645" y="363" key="com.intellij.ide.util.TipDialog/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1582703830532" />
+    <state x="2565" y="363" key="com.intellij.ide.util.TipDialog/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1582714902750" />
+    <state x="334" y="149" key="new project wizard" timestamp="1582702252664">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="334" y="149" key="new project wizard/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1582702252664" />
+    <state x="2302" y="45" key="search.everywhere.popup" timestamp="1582713469266">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2302" y="45" key="search.everywhere.popup/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1582713469266" />
+  </component>
+</project>
